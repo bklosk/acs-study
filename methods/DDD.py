@@ -1,1 +1,0 @@
-#need to weight coefficients based on way survey was conducted (Carrington, 2000)
